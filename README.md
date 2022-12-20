@@ -14,4 +14,4 @@
   * Typescript
   * SASS
   * React Hooks
-  * Spoonocular API
+  * Spoonocular API (https://spoonacular.com/food-api)
