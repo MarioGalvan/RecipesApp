@@ -9,7 +9,7 @@ export const NavBar = () => {
       
       <div className='navItemsMovile'>
         <a href='#'>
-          <img src={HomeIcon} />
+          <img src={HomeIcon} alt="Home Icon"/>
         </a>
       </div>
       <div className='navItems'>
